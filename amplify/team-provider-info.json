@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kiri3625-dev-01359-authRole",
+      "UnauthRoleArn": "arn:aws:iam::682357146837:role/amplify-kiri3625-dev-01359-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::682357146837:role/amplify-kiri3625-dev-01359-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-kiri3625-dev-01359-deployment",
+      "UnauthRoleName": "amplify-kiri3625-dev-01359-unauthRole",
+      "StackName": "amplify-kiri3625-dev-01359",
+      "StackId": "arn:aws:cloudformation:us-east-1:682357146837:stack/amplify-kiri3625-dev-01359/0afc3b30-fca1-11ed-8938-0a2f313b7917",
+      "AmplifyAppId": "d9ben4giwx0rs"
+    }
+  }
+}
